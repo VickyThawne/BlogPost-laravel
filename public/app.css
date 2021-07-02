@@ -9,3 +9,9 @@ body{
 p{
     line-height: 1.6;
 }
+
+article{
+    margin-top: 3rem;
+    border-top: 1px solid #c5c5c5;
+    border-bottom: 1px solid #c5c5c5;
+}
